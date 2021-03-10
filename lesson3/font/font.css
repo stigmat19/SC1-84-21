@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'DancingScript-SemiBold';
+  src: url('DancingScript-SemiBold.eot');
+  src: url('DancingScript-SemiBold.eot?#iefix') format('embedded-opentype'),
+       url('DancingScript-SemiBold.svg#DancingScript-SemiBold') format('svg'),
+       url('DancingScript-SemiBold.ttf') format('truetype'),
+       url('DancingScript-SemiBold.woff') format('woff'),
+       url('DancingScript-SemiBold.woff2') format('woff2');
+  font-weight: normal;
+  font-style: normal;
+}
+
